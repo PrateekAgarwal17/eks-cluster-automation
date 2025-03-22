@@ -1,6 +1,3 @@
-# environment:
-#   - k8s-eks-gpu-cluster
-#   - access-aws-lollypop-admin
 
 config:
   aws:region: us-east-1
